@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xFrankz/CV-portfolio/issues"
   },
-  "homepage": "https://github.com/xFrankz/CV-portfolio#readme"
+  "homepage": "https://github.com/xFrankz/CV-portfolio#readme",
+  "dependencies": {
+    "animejs": "^3.2.0"
+  }
 }
